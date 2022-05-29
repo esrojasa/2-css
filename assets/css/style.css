@@ -1,0 +1,40 @@
+body {
+  font-family: Verdana, sans-serif;
+  color: beige; 
+  padding: 1%;
+}
+header {
+  height: 10%;
+  padding: 1%;
+  font-size: 2vw;
+  background-image: url("../img/header.jpg");
+  background-size: cover;
+  background-position: center;
+}
+header h1 {
+  font-weight: 400%;
+}
+.card{
+    margin-left:15%;
+}
+.card-body{
+    color:rgb(130, 28, 28);
+    display: inline-block;
+    width: 55%;  
+    vertical-align: top;
+}
+.card-title{
+    font-size: 2vw;   
+}
+.card-text{
+    font-size: 1vw;
+}
+main img {  
+  padding: 1%;  
+  width: 30%; 
+}
+footer {
+  background-color: rgb(130, 28, 28);
+  text-align: center;  
+  font-size: 2vw;
+}
